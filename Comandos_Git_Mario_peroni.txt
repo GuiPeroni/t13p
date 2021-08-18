@@ -1,0 +1,18 @@
+GIt clone
+git clone https://github.com/GuiPeroni/t13p.git
+
+git push
+git push origin main
+
+git pull
+
+mkdir
+mkdir erro teste
+
+touch
+touch texto.txt
+
+git add
+git add .
+
+
